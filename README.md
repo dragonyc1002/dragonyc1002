@@ -78,24 +78,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-:)
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315hs5thnzfpklh4fqdyueru7qeu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 
 
 ## Connect with me  
