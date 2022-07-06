@@ -69,16 +69,6 @@
 
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dragonyc1002&show_icons=true&theme=dark" align="left" /></div>  
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonyc1002&hide_border=true&layout=compact&theme=dark" align="left" />  
-
-<br/>  
-
-
-
 
 ## Connect with me  
 <div align="center">
@@ -104,3 +94,13 @@
   
 
 <br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dragonyc1002&show_icons=true&theme=dark" align="left" /></div>  
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonyc1002&hide_border=true&layout=compact&theme=dark" align="left" />  
+
+<br/>  
+
