@@ -85,7 +85,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315hs5thnzfpklh4fqdyueru7qeu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315hs5thnzfpklh4fqdyueru7qeu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
@@ -95,9 +95,6 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
@@ -118,7 +115,7 @@
 <a href="https://stackoverflow.com/users/Hugo Chen" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/鐵道愛好者Hugo" target="_blank">
+<a href="https://www.youtube.com/channel/UCrAv7PZKySLAHOCWHfjUu_g/" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
