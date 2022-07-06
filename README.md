@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="center">Hi, there. I'm Hugo Chen, a noob developer, I'm still Learning.</div>  
+## <div align="center">Hi, there. I'm Hugo Chen, a noob developer, I'm still Learning.</div>  
   
 
 - 🔭 I’m currently working on [HBYC](https://github.com/dragonyc1002/HBYC)  
@@ -77,8 +77,6 @@
 
 <br/>  
 
-
-<br/>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
