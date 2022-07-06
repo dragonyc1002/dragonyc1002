@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="./imgs/banner.JPG" align="center" style="width: 100%" />
 </div>  
   
 
@@ -71,15 +71,18 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dragonyc1002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonyc1002&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
 
+<br/>
+
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+:)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
