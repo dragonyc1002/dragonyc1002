@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [HBYC](https://github.com/dragonyc1002/HBYC)  
   
 
-- 🌱 I’m  learning JavaScript/TypeScript, C, C++, Python, Golang.  
+- 🌱 I’m  learning JavaScript/TypeScript, and learning some basic code of C, C++, Golang  
   
 
-- ❓ Ask me about Railways, Python  
+- ❓ Ask me about Railways, Basic Python  
   
 
 <br/>  
