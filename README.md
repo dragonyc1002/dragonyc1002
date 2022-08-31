@@ -1,19 +1,15 @@
 <div align="center">
-<img src="./imgs/banner.JPG" align="center" style="width: 100%" />
+<img src="./imgs/R158.JPG" align="center" style="width: 100%" />
 </div> 
   
 
-## <div align="center">Hi, there. I'm Hugo Chen, a noob developer, I'm still Learning.</div>  
+## <div align="left">Hi, there. I'm Hugo Chen, a develop starter, I'm still learning.</div>  
   
 
-- I’m currently working on [HBYC](https://github.com/HBYC-Team) 
+- I’m currently working on [HBYC](https://github.com/HBYC-Team).
   
 
-- 🌱 I’m  learning JavaScript/TypeScript, Golang 
-  
-
-- ❓ Ask me about Railways, Basic Python 
-  
+- I’m  learning JavaScript/TypeScript, Golang. 
 
 <br/> 
 
