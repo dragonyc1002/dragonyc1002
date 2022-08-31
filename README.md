@@ -17,6 +17,8 @@
 
 <br/> 
 
+![Metrics](https://metrics.lecoq.io/dragonyc1002?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Etc%2FGMT-8)
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
