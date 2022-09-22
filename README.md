@@ -14,7 +14,7 @@ I'm Hugo Chen, a develop starter, I'm still learning.
 
 <br/> 
 
-![Metrics](https://metrics.lecoq.io/dragonyc1002?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Etc%2FGMT-8)
+![Metrics](https://metrics.lecoq.io/dragonyc1002?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FTaipei)
 
 
 ## My Skill Set  
