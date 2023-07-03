@@ -14,6 +14,6 @@ Hi there, I'm Hugo Chen, I usually work on some JavaScript Repositories here at 
 <h4>Instagram: <a href="https://instagram.com/chegoyc.02"/>chegoyc.02</a></h4>
 
 ## Github Stats  
-![dragonyc1002's GitHub stats](https://github-readme-stats.vercel.app/api/username=dragonyc1002&show_icons=true&theme=dark)
+![dragonyc1002's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonyc1002&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonyc1002&theme=dark)
