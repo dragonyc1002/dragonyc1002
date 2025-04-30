@@ -1,4 +1,4 @@
-![IMG](./imgs/sunset.JPG)  
+![IMG](./assets/sunset.JPG)  
 
 ## Welcome to my bio  
 Hi there, welcome to my casual bio. I used to be more active on programming but the activity has incredibly decreased due to other commitments unfortunately. Hope to return coding someday though given how fun it has always been.
